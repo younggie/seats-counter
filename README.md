@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and tailwindcss.
 
+## 이 프로그램은
+
+국회의석수 계산기(http://watch.peoplepower21.org/election/) 의 리액트 버전 입니다.
 ## Available Scripts
 
 In the project directory, you can run:
