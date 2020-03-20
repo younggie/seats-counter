@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 이 프로그램은
 
 국회의석수 계산기(http://watch.peoplepower21.org/election/) 의 리액트 버전 입니다.
+실행 주소:  https://younggie.github.io/seats-counter/
 ## Available Scripts
 
 In the project directory, you can run:
